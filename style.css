@@ -1,0 +1,902 @@
+.website-design,
+.website-design * {
+  box-sizing: border-box;
+}
+.website-design {
+  background: #ffffff;
+  width: 1920px;
+  height: 4867px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-8 {
+  background: rgba(229, 84, 115, 0.1);
+  width: 1920px;
+  height: 850px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.let-s-make-beautiful-flowers-a-part-of-your-life {
+  color: #272727;
+  text-align: left;
+  font: 800 80px "Lato", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 197px;
+  width: 708px;
+}
+.it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout-the-point-of-using-lorem-ipsum-is-that-it-has-a-more-or-less-normal-distribution-of-letters {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: left;
+  font: 400 18px/30px "Lato", sans-serif;
+  position: absolute;
+  left: 240px;
+  top: 517px;
+  width: 634px;
+}
+.frame-1 {
+  background: #e55473;
+  border-radius: 8px;
+  padding: 20px 43px 20px 43px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 240px;
+  top: 639px;
+}
+.shop-now {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Lato", sans-serif;
+  position: relative;
+}
+.group-14 {
+  position: absolute;
+  inset: 0;
+}
+.our-featured-flowers {
+  color: #272727;
+  text-align: center;
+  font: 800 40px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 196px);
+  top: 1028px;
+}
+.it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font: 400 18px/30px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 297px);
+  top: 1100px;
+  width: 594px;
+}
+.group-55 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  background: rgba(229, 84, 115, 0.05);
+  border-radius: 8px;
+  width: 1922px;
+  height: 620px;
+  position: absolute;
+  left: -2px;
+  top: 2389px;
+}
+.group-54 {
+  width: 594px;
+  height: 228px;
+  position: static;
+}
+.hot-deal-sale-up-to-25-off {
+  text-align: left;
+  font: 800 40px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 539px);
+  top: 2619px;
+}
+.hot-deal-sale-up-to-25-off-span {
+  color: #272727;
+  font: 800 40px "Lato", sans-serif;
+}
+.hot-deal-sale-up-to-25-off-span2 {
+  color: #e55473;
+  font: 800 40px "Lato", sans-serif;
+}
+.it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout2 {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font: 400 18px/30px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 567px);
+  top: 2691px;
+  width: 594px;
+}
+.frame-12 {
+  background: #e55473;
+  border-radius: 8px;
+  padding: 20px 43px 20px 43px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 601px;
+  top: 2783px;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Lato", sans-serif;
+  position: relative;
+}
+.pngwing-8 {
+  width: 318px;
+  height: 420px;
+  position: absolute;
+  left: 1173px;
+  top: 2489px;
+}
+.group-56 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  background: #111010;
+  width: 1922px;
+  height: 449px;
+  position: absolute;
+  left: -2px;
+  top: 4418px;
+}
+.flower-shop {
+  text-align: left;
+  font: 800 48px "Lato", sans-serif;
+  position: absolute;
+  left: 829px;
+  top: 4546px;
+}
+.flower-shop-span {
+  color: #e55473;
+  font: 800 48px "Lato", sans-serif;
+}
+.flower-shop-span2 {
+  color: #ffffff;
+  font: 800 48px "Lato", sans-serif;
+}
+.it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout3 {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font: 400 18px/30px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 314px);
+  top: 4628px;
+  width: 625px;
+}
+._2020-2023-flower-shop-com-all-rights-reserved {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font: 400 16px "Lato", sans-serif;
+  position: absolute;
+  left: 782px;
+  top: 4720px;
+}
+.group-64 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-62 {
+  background: rgba(39, 39, 39, 0.05);
+  border-radius: 8px;
+  width: 1440px;
+  height: 320px;
+  position: absolute;
+  left: 240px;
+  top: 1941px;
+}
+.group-63 {
+  width: 1090px;
+  height: 147px;
+  position: static;
+}
+.group-62 {
+  width: 372px;
+  height: 147px;
+  position: static;
+}
+.group-57 {
+  width: 88px;
+  height: 88px;
+  position: static;
+}
+.delivery-man-1 {
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 557px;
+  top: 2027px;
+  overflow: hidden;
+}
+.filled-stroke-cut-ex {
+  position: absolute;
+  inset: 0;
+}
+.group {
+  width: 77px;
+  height: 82.5px;
+  position: static;
+}
+.vector {
+  position: absolute;
+  left: 68.75px;
+  top: 53.62px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 20.62px;
+  top: 42.62px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 35.75px;
+  top: 37.12px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 36.59px;
+  top: 37.12px;
+  overflow: visible;
+}
+.vector5 {
+  position: absolute;
+  left: 27.5px;
+  top: 15.12px;
+  overflow: visible;
+}
+.group2 {
+  position: absolute;
+  left: 37.13px;
+  top: 22px;
+  overflow: visible;
+}
+.vector8 {
+  position: absolute;
+  left: 39.88px;
+  top: 30.94px;
+  overflow: visible;
+}
+.vector9 {
+  position: absolute;
+  left: 31.63px;
+  top: 4.12px;
+  overflow: visible;
+}
+.vector10 {
+  position: absolute;
+  left: 31.63px;
+  top: 10.23px;
+  overflow: visible;
+}
+.vector11 {
+  position: absolute;
+  left: 19.25px;
+  top: 48.12px;
+  overflow: visible;
+}
+.vector12 {
+  position: absolute;
+  left: 16.5px;
+  top: 74.25px;
+  overflow: visible;
+}
+.vector13 {
+  position: absolute;
+  left: 38.5px;
+  top: 48.12px;
+  overflow: visible;
+}
+.vector14 {
+  position: absolute;
+  left: 38.5px;
+  top: 75.62px;
+  overflow: visible;
+}
+.vector15 {
+  position: absolute;
+  left: 6.88px;
+  top: 53.62px;
+  overflow: visible;
+}
+.vector16 {
+  position: absolute;
+  left: 56.37px;
+  top: 74.25px;
+  overflow: visible;
+}
+.vector17 {
+  position: absolute;
+  left: 23.38px;
+  top: 52.25px;
+  overflow: visible;
+}
+.vector18 {
+  position: absolute;
+  left: 28.88px;
+  top: 52.25px;
+  overflow: visible;
+}
+.vector19 {
+  position: absolute;
+  left: 23.38px;
+  top: 57.75px;
+  overflow: visible;
+}
+.vector20 {
+  position: absolute;
+  left: 55px;
+  top: 53.62px;
+  overflow: visible;
+}
+.vector21 {
+  position: absolute;
+  left: 53.62px;
+  top: 52.25px;
+  overflow: visible;
+}
+.vector22 {
+  position: absolute;
+  left: 5.5px;
+  top: 2.75px;
+  overflow: visible;
+}
+.same-day-delivery-click-collect {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font: 600 24px/35px "Lato", sans-serif;
+  position: absolute;
+  left: 415px;
+  top: 2139px;
+}
+.group-61 {
+  width: 316px;
+  height: 147px;
+  position: static;
+}
+.group-58 {
+  width: 88px;
+  height: 88px;
+  position: static;
+}
+.flower-1 {
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 1001px;
+  top: 2027px;
+  overflow: hidden;
+}
+.group3 {
+  position: absolute;
+  inset: 0;
+}
+.group4 {
+  width: 85.39px;
+  height: 85.42px;
+  position: static;
+}
+.vector23 {
+  position: absolute;
+  left: 35.57px;
+  top: 5.5px;
+  overflow: visible;
+}
+.group5 {
+  width: 25.69px;
+  height: 22.37px;
+  position: static;
+}
+.vector24 {
+  position: absolute;
+  left: 65.11px;
+  top: 30.12px;
+  overflow: visible;
+}
+.vector25 {
+  position: absolute;
+  left: 69.15px;
+  top: 30.12px;
+  overflow: visible;
+}
+.group6 {
+  position: absolute;
+  left: 61.01px;
+  top: 39.3px;
+  overflow: visible;
+}
+.vector27 {
+  position: absolute;
+  left: 66.01px;
+  top: 39.3px;
+  overflow: visible;
+}
+.group7 {
+  width: 22.37px;
+  height: 25.69px;
+  position: static;
+}
+.vector28 {
+  position: absolute;
+  left: 42.68px;
+  top: 1.29px;
+  overflow: visible;
+}
+.vector29 {
+  position: absolute;
+  left: 42.75px;
+  top: 1.29px;
+  overflow: visible;
+}
+.group8 {
+  position: absolute;
+  left: 35.5px;
+  top: 4.22px;
+  overflow: visible;
+}
+.vector31 {
+  position: absolute;
+  left: 35.5px;
+  top: 4.22px;
+  overflow: visible;
+}
+.vector32 {
+  position: absolute;
+  left: 13.39px;
+  top: 51.34px;
+  overflow: visible;
+}
+.vector33 {
+  position: absolute;
+  left: 13.39px;
+  top: 51.34px;
+  overflow: visible;
+}
+.vector34 {
+  position: absolute;
+  left: 1.3px;
+  top: 57.71px;
+  overflow: visible;
+}
+.vector35 {
+  position: absolute;
+  left: 1.3px;
+  top: 57.71px;
+  overflow: visible;
+}
+.group9 {
+  width: 30.28px;
+  height: 30.28px;
+  position: static;
+}
+.vector36 {
+  position: absolute;
+  left: 53.97px;
+  top: 14.19px;
+  overflow: visible;
+}
+.vector37 {
+  position: absolute;
+  left: 55.95px;
+  top: 14.19px;
+  overflow: visible;
+}
+.group10 {
+  position: absolute;
+  left: 46.07px;
+  top: 11.65px;
+  overflow: visible;
+}
+.group11 {
+  width: 52.71px;
+  height: 52.71px;
+  position: static;
+}
+.vector42 {
+  position: absolute;
+  left: 47.38px;
+  top: 39.27px;
+  overflow: visible;
+}
+.vector43 {
+  position: absolute;
+  left: 19.75px;
+  top: 15.54px;
+  overflow: visible;
+}
+.group12 {
+  position: absolute;
+  left: 19.75px;
+  top: 15.54px;
+  overflow: visible;
+}
+.vector46 {
+  position: absolute;
+  left: 0.01px;
+  top: 0px;
+  overflow: visible;
+}
+.fresh-flowers-local-growers {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font: 600 24px/35px "Lato", sans-serif;
+  position: absolute;
+  left: 887px;
+  top: 2139px;
+}
+.group-60 {
+  width: 202px;
+  height: 147px;
+  position: static;
+}
+.group-59 {
+  width: 88px;
+  height: 88px;
+  position: static;
+}
+.customer-service-1 {
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 1360px;
+  top: 2027px;
+  overflow: hidden;
+}
+.vector47 {
+  position: absolute;
+  left: 26.87px;
+  top: 15.61px;
+  overflow: visible;
+}
+.vector48 {
+  position: absolute;
+  left: 42.48px;
+  top: 15.61px;
+  overflow: visible;
+}
+.vector49 {
+  position: absolute;
+  left: 19.77px;
+  top: 59.61px;
+  overflow: visible;
+}
+.group13 {
+  position: absolute;
+  left: 26.87px;
+  top: 31.23px;
+  overflow: visible;
+}
+.vector54 {
+  position: absolute;
+  left: 42.48px;
+  top: 36.65px;
+  overflow: visible;
+}
+.vector55 {
+  position: absolute;
+  left: 60.93px;
+  top: 1.42px;
+  overflow: visible;
+}
+.vector56 {
+  position: absolute;
+  left: 49.58px;
+  top: 59.61px;
+  overflow: visible;
+}
+.vector57 {
+  position: absolute;
+  left: 1.52px;
+  top: 47.53px;
+  overflow: visible;
+}
+.vector58 {
+  position: absolute;
+  left: 0.1px;
+  top: 14.19px;
+  overflow: visible;
+}
+.vector59 {
+  position: absolute;
+  left: 59.51px;
+  top: 0px;
+  overflow: visible;
+}
+.vector60 {
+  position: absolute;
+  left: 65.19px;
+  top: 5.68px;
+  overflow: visible;
+}
+.vector61 {
+  position: absolute;
+  left: 65.19px;
+  top: 11.35px;
+  overflow: visible;
+}
+.vector62 {
+  position: absolute;
+  left: 79.38px;
+  top: 11.35px;
+  overflow: visible;
+}
+.vector63 {
+  position: absolute;
+  left: 0.1px;
+  top: 4.26px;
+  overflow: visible;
+}
+.vector64 {
+  position: absolute;
+  left: 72.57px;
+  top: 26.44px;
+  overflow: visible;
+}
+._24-7-free-support {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font: 600 24px/35px "Lato", sans-serif;
+  position: absolute;
+  left: 1303px;
+  top: 2139px;
+}
+.group-70 {
+  position: absolute;
+  inset: 0;
+}
+.group-67 {
+  width: 464px;
+  height: 605px;
+  position: static;
+}
+.rectangle-3 {
+  background: rgba(5, 151, 160, 0.15);
+  border-radius: 300px 300px 0px 0px;
+  width: 464px;
+  height: 538px;
+  position: absolute;
+  left: 728px;
+  top: 1208px;
+}
+.pink-flower-tree {
+  color: #272727;
+  text-align: center;
+  font: 700 24px/35px "Lato", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 869px;
+  top: 1778px;
+}
+.pngwing-5 {
+  width: 370px;
+  height: 370px;
+  position: absolute;
+  left: 775px;
+  top: 1325px;
+}
+.group-68 {
+  width: 464px;
+  height: 605px;
+  position: static;
+}
+.pink-flower-tree2 {
+  color: #272727;
+  text-align: center;
+  font: 700 24px/35px "Lato", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 381px;
+  top: 1778px;
+}
+.rectangle-32 {
+  background: rgba(167, 33, 98, 0.15);
+  border-radius: 300px 300px 0px 0px;
+  width: 464px;
+  height: 538px;
+  position: absolute;
+  left: 240px;
+  top: 1208px;
+}
+.pngwing-6 {
+  width: 310px;
+  height: 428px;
+  position: absolute;
+  left: 316px;
+  top: 1318px;
+}
+.group-69 {
+  width: 464px;
+  height: 605px;
+  position: static;
+}
+.pink-flower-tree3 {
+  color: #272727;
+  text-align: center;
+  font: 700 24px/35px "Lato", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1358px;
+  top: 1778px;
+}
+.rectangle-33 {
+  background: rgba(71, 125, 17, 0.15);
+  border-radius: 300px 300px 0px 0px;
+  width: 464px;
+  height: 538px;
+  position: absolute;
+  left: 1216px;
+  top: 1208px;
+}
+.pngwing-7 {
+  width: 314px;
+  height: 471px;
+  position: absolute;
+  left: 1291px;
+  top: 1275px;
+}
+.group-71 {
+  position: absolute;
+  inset: 0;
+}
+.instagram {
+  color: #272727;
+  text-align: center;
+  font: 800 40px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 90px);
+  top: 3137px;
+}
+.it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout4 {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font: 400 18px/30px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 297px);
+  top: 3209px;
+  width: 594px;
+}
+.rectangle-34 {
+  width: 342px;
+  height: 396px;
+  position: absolute;
+  left: 240px;
+  top: 3317px;
+}
+.rectangle-4 {
+  width: 342px;
+  height: 396px;
+  position: absolute;
+  left: 606px;
+  top: 3317px;
+}
+.rectangle-5 {
+  width: 342px;
+  height: 396px;
+  position: absolute;
+  left: 972px;
+  top: 3317px;
+}
+.rectangle-63 {
+  width: 342px;
+  height: 396px;
+  position: absolute;
+  left: 1338px;
+  top: 3317px;
+}
+.pngwing-10 {
+  width: 635px;
+  height: 800px;
+  position: absolute;
+  left: 1045px;
+  top: 50px;
+}
+.group-78 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-9 {
+  border-radius: 8px;
+  width: 1440px;
+  height: 449px;
+  position: absolute;
+  left: 240px;
+  top: 3841px;
+}
+.group-77 {
+  width: 866px;
+  height: 206px;
+  position: static;
+}
+.group-73 {
+  width: 373px;
+  height: 94px;
+  position: static;
+}
+.get-the-latest-deals {
+  color: #272727;
+  text-align: center;
+  font: 800 40px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 187px);
+  top: 3963px;
+}
+._30-coupon-for-first-shopping {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font: 400 18px/30px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 116px);
+  top: 4027px;
+}
+.group-76 {
+  width: 866px;
+  height: 64px;
+  position: static;
+}
+.group-75 {
+  width: 700px;
+  height: 64px;
+  position: static;
+}
+.rectangle-10 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 700px;
+  height: 64px;
+  position: absolute;
+  left: calc(50% - 433px);
+  top: 4105px;
+}
+.enter-your-email-here {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font: 400 16px "Lato", sans-serif;
+  position: absolute;
+  left: calc(50% - 411px);
+  top: 4128px;
+}
+.group-74 {
+  width: 150px;
+  height: 64px;
+  position: static;
+}
+.rectangle-11 {
+  background: #e55473;
+  border-radius: 8px;
+  width: 150px;
+  height: 64px;
+  position: absolute;
+  left: calc(50% - -283px);
+  top: 4105px;
+}
+.subscribe {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Lato", sans-serif;
+  position: absolute;
+  left: 1274px;
+  top: 4123.29px;
+  width: 88px;
+  height: 27.43px;
+}
